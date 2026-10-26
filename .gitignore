@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+analysis_summary.json
+*.elf
+*.bin
+.vscode/
+.DS_Store
